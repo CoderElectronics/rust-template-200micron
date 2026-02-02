@@ -1,6 +1,6 @@
 # rust-template-200micron
 
-A Rust cross-compilation template project for the 200micron SBC.This template provides a basic Rust application setup with build configurations for both local development and `armv5te-unknown-linux-gnueabi`
+A Rust cross-compilation template project for the 200micron SBC. This template provides a basic Rust application setup with build configurations for both local development and `armv5te-unknown-linux-gnueabi`
 
 ## Prerequisites
 
